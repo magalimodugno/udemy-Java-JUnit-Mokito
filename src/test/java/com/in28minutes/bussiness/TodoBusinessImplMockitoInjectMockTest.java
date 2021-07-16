@@ -26,7 +26,7 @@ public class TodoBusinessImplMockitoInjectMockTest {
 
     @Rule
     public MockitoRule mockitoRule = MockitoJUnit.rule();
-    //Asi podemos tener multiples runners
+    //Asi podemos tener multiples runners --> es lo mas recomendado :)
 
     //@Mock
     @Mock
